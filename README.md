@@ -5,4 +5,4 @@
 * I'm 🇦🇺🇺🇸 and live in NYC.
 * I'm an engineer and engineering leader.
 * I [write books](https://turnbull.press).
-* I love food, wine, ancient coins, maps, and cats.
+* I love tattoos, food, wine, ancient coins, maps, and cats.
