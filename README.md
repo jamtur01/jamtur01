@@ -6,4 +6,4 @@
 * I'm an engineer and engineering leader.
 * I [write books](https://turnbull.press).
 * I love tattoos, food, wine, ancient coins, maps, and cats.
-* You can find me on [Twitter](https://twitter.com/kartar) and <a href="https://mastodon.online/@kartar" rel="me" title="James Turnbull on Mastodon" target="_blank">Mastodon</a>.
+* You can find me on [Twitter](https://twitter.com/kartar) and [Mastodon](https://mastodon.online/@kartar){:rel="me"}.
