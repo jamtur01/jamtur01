@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/jamtur01/jamtur01/blob/main/newav.png" alt="It me" width=350px height=650px />
+<img align="right" src="https://github.com/jamtur01/jamtur01/blob/main/newav.png" alt="It me" width=275px height=450px />
 
 ### Hiya, I'm James
 
